@@ -1,0 +1,1 @@
+# Treinando-Desafios-de-Codigos-com-IAs-Generativas
