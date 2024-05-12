@@ -9,6 +9,7 @@ Primeiro, ele define um dicionário chamado `caracteristicas_modelos`. Este dici
 
 ~~~ Python
 
+
 # Dicionário associando características aos modelos Claude 3
 
 caracteristicas_modelos = {
