@@ -30,3 +30,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | 700 | Claude 3 Opus. Melhor desempenho dentro do seu orçamento. |
 | 550 | Claude 3 Sonnet. Melhor desempenho dentro do seu orçamento. |
 | 249 | Seu orçamento é muito baixo para recomendar um modelo adequado. |
+
+## 
+
+[![Home](https://img.shields.io/badge/-Voltar-e67e22?style=for-the-badge)](https://github.com/omarcosta/Treinando-Desafios-de-Codigos-com-IAs-Generativas/blob/main/README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Resposta ao desafio](https://img.shields.io/badge/-Resposta%20ao%20desafio-e67e22?style=for-the-badge)](https://github.com/omarcosta/Treinando-Desafios-de-Codigos-com-IAs-Generativas/blob/main/Desafio_3_resposta.md)
