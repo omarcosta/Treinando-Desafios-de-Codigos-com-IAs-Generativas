@@ -27,3 +27,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | 8 </br> 5 </br> 7 </br> Codificação, Recuperação de informações  | O Claude 3 Sonnet é o modelo recomendado. |
 | 7 </br> 9 </br> 6 </br> Velocidade, Resumo de dados não estruturados | O Claude 3 Haiku é o modelo recomendado. |
 | 1 </br> 5 </br> 9 </br> Viagem interplanetária, Autoconhecimento | Nenhum modelo encontrado. |
+
+## 
+
+[![Home](https://img.shields.io/badge/-Voltar-e67e22?style=for-the-badge)](https://github.com/omarcosta/Treinando-Desafios-de-Codigos-com-IAs-Generativas/blob/main/README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Resposta ao desafio](https://img.shields.io/badge/-Resposta%20ao%20desafio-e67e22?style=for-the-badge)](https://github.com/omarcosta/Treinando-Desafios-de-Codigos-com-IAs-Generativas/blob/main/Desafio_2_resposta.md)
