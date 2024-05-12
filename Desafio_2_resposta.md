@@ -124,3 +124,7 @@ capacidades = input()
 print(selecionar_modelo(desempenho, velocidade, custo, capacidades))
 
 ~~~
+
+## 
+
+[![Home](https://img.shields.io/badge/-Voltar-e67e22?style=for-the-badge)](https://github.com/omarcosta/Treinando-Desafios-de-Codigos-com-IAs-Generativas/blob/main/README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Desafio 2](https://img.shields.io/badge/-Resposta%20ao%20desafio-e67e22?style=for-the-badge)](https://github.com/omarcosta/Treinando-Desafios-de-Codigos-com-IAs-Generativas/blob/main/Desafio_2.md)
